@@ -8,6 +8,8 @@ O evento é organizado pela Escola de Dados, da Open Knowledge Brasil, em parcer
 
 **Dataset**: [Índice de Desenvolvimento da Educação Básica (Ideb)](https://basedosdados.org/dataset/br-inep-ideb?bdm_table=municipio)
 
+[Slides da apresentação](https://docs.google.com/presentation/d/1sTHbwhNV82DyEFqZHTpjJZDP8gAPY4oOMzOkKfHQre8/edit?usp=sharing)
+
 Pandas é uma biblioteca Python rápida, poderosa, flexível e fácil de usar para análise e manipulação de dados. Desde 2010 é código aberto e tem sido uma das principais bibliotecas a serem usadas no contexto de Ciências de Dados. Este workshop abordará as principais funcionalidades sobre a biblioteca, iniciando na importação e passando pela etapas de ETL (Extração, Importação e Carregamento), processo básico de manipulação dos dados, aplicando em uma base de dados pública.
 
 ### Configuração o projeto
